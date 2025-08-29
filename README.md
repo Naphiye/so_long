@@ -1,6 +1,6 @@
 ## 📝 Description
 
-**So_Long** est un proje qui consiste à créer un **petit jeu 2D** en C en utilisant la librairie graphique **MiniLibX**. Le but est de naviguer sur une carte, collecter des objets et atteindre la sortie.
+**So_Long** est un projet qui consiste à créer un **petit jeu 2D** en C en utilisant la librairie graphique **MiniLibX**. Le but est de naviguer sur une carte, collecter des objets et atteindre la sortie.
 
 Ce projet met en avant plusieurs compétences clés :  
 - Gestion dynamique de la mémoire et des structures de données.  
