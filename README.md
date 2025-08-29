@@ -56,7 +56,7 @@ Pour compiler la version bonus, qui peut inclure :
 
 Animation des murs(eaux)
 
-Gestion de plusieurs ennemis ('M') sur la map
+Gestion de plusieurs ennemis (`M`) sur la map
 
 
 compile-le avec `make bonus`: 
