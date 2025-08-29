@@ -50,7 +50,7 @@ make
 
     Collecter tous les objets avant de sortir
 
-## Bonus
+## ⭐ Bonus
 
 Pour compiler la version bonus, qui peut inclure :
 
