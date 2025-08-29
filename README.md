@@ -30,25 +30,6 @@ Ce projet met en avant plusieurs compétences clés :
 
 ---
 
-## 💡 Difficultés et Apprentissage
-
-Ce projet est particulièrement intéressant pour progresser dans plusieurs domaines :  
-
-1. **Structuration et logique de jeu**  
-   - Implémenter la logique du joueur et des objets avec des structures claires.  
-
-2. **Gestion de la mémoire**  
-   - Allocation dynamique de la carte et nettoyage correct à la sortie pour éviter les fuites.  
-
-3. **Manipulation graphique**  
-   - Apprentissage de MiniLibX pour dessiner des sprites et gérer les événements clavier.  
-
-4. **Validation et contraintes strictes**  
-   - Vérification complète de la carte avant le lancement du jeu.
-   - Gestion de toutes les erreurs possibles pour que le jeu ne plante jamais.
-
----
-
 ## 📦 Installation
 
 Clone le projet et compile-le avec `make` :
