@@ -57,5 +57,8 @@ Pour compiler la version bonus, qui peut inclure :
 Animation des murs(eaux)
 
 Gestion de plusieurs ennemis ('M') sur la map
-compile-le avec 'make bonus' 
+
+
+compile-le avec `make bonus`: 
+
 ./so_long MAPS_BONUS/example.ber
